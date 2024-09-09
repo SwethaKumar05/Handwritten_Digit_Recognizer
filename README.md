@@ -8,3 +8,5 @@ Objective: To develop an efficient and accurate system capable of recognizing ha
 Technology Stack: Python, TensorFlow/Keras, OpenCV, NumPy.
 
 Dataset: The model is trained and validated using the MNIST dataset, a large collection of labeled handwritten digits.
+
+Well Versed in Unsupervised Learning.
